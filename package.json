@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "create-vite": "^5.1.0"
+  }
+}
